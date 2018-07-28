@@ -12,7 +12,7 @@ function happyHolidaysTo (name){
 function happyHolidayTo (holiday, name){
   return `Happy ${holiday}, ${name}!`
 }
-//function with two paramters and a calculation
+//another function with two paramters
 function holidayCountdown (holiday, days){
   return `It's ${days} days until ${holiday}!`
 }
