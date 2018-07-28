@@ -1,10 +1,14 @@
 // write your code below!
-//Happy holidays!
+//function with no parameters
 function happyHolidays () {
   return "Happy holidays!"
 }
   
-//Happy holidays throw
+//function with one parameter
 function happyHolidaysTo (name){
   return `Happy holidays, ${name}!`
+}
+//function with two paramteters
+function happyHolidayTo (holiday, name){
+  return `Happy ${holiday}, ${name}!`
 }
