@@ -13,8 +13,8 @@ function happyHolidayTo (holiday, name){
   return `Happy ${holiday}, ${name}!`
 }
 //function with two paramters and a calculation
+let days = 20;
+let holiday = "Mother's Day";
 function holidayCountdown (days, holiday){
   return `It's ${days} days until ${holiday}!`
 }
-let days = 20;
-let holiday = "Mother's Day";
