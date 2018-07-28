@@ -16,3 +16,5 @@ function happyHolidayTo (holiday, name){
 function holidayCountdown (days, holiday){
   return `It's ${days} days until ${holiday}!`
 }
+let days = 20;
+let holiday = "Mother's Day";
